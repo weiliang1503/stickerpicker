@@ -1,6 +1,7 @@
 {
   "packs": [
-    "KoitoYuu.json"
+    "KoitoYuu.json",
+    "LINE_ELISIA_BEST_CUTE_MOMENTS.json"
   ],
   "homeserver_url": "https://mozilla.modular.im"
 }
