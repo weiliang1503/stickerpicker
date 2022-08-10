@@ -1,7 +1,8 @@
 {
   "packs": [
     "KoitoYuu.json",
-    "LINE_ELISIA_BEST_CUTE_MOMENTS.json"
+    "LINE_ELISIA_BEST_CUTE_MOMENTS.json",
+    "line_sticker_15704418_85b2fc_by_moe_sticker_bot.json"
   ],
   "homeserver_url": "https://mozilla.modular.im"
 }
